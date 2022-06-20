@@ -1,3 +1,11 @@
-Pre-Qtech
+Meta
+    ->Research more risk indicators 
 
-Some preliminary Understanding the applications of AI, math, and statistics in finance. 
+Workflow 
+    -> Research algos
+        -> Reserach traditional trading strategies from literature & news 
+        -> Research ML trained ALGs as well as ML models to determined indicators
+    -> Set up trading alg
+        -> Backtest 
+            -> historical volatility and drawdown periods, as well as asset class, term, and market concentration risk.
+        ->
