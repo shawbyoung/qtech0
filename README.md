@@ -8,4 +8,4 @@ Workflow
     -> Set up trading alg
         -> Backtest 
             -> historical volatility and drawdown periods, as well as asset class, term, and market concentration risk.
-        ->
+        ->Benchmark is normal crypto performance
